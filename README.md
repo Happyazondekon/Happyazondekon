@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hello, I'm Happy AZONDEKON  
 
-<!--
-**Happyazondekon/Happyazondekon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | IT Analyst**  
+🚀 Passionate about **Laravel, React, and Flutter**  
+📚 Currently working on **SmartSpend, Memory, and Attendance Tracking App**  
+🎓 Studying **Analysis & Programming at ENEAM**  
+🌍 Based in **Benin**  
 
-Here are some ideas to get you started:
+![Banner](https://i.imgur.com/IKzFTDb.jpeg) <!-- Remplace avec ton URL de bannière -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+
+---
+
+## 🤓 Fun Facts  
+- 📷 **Passionné de photographie**  
+- 📝 **Auteur de *Elixir du Renouveau***  
+- 🌏 **A voyagé au Togo**  
+- 🏆 **Certifié HSK2 en chinois**  
+- 🔍 Toujours curieux d'apprendre de nouvelles technos  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Happyazondekon&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happyazondekon&layout=compact&theme=radical)  
+
+---
+
+## 🏆 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark)  
+
+---
+
+## 🌟 Featured Projects  
+🚀 [**SmartSpend**](https://github.com/Happyazondekon/SmartSpend) - Budget management app in Flutter  
+📸 [**Memory**](https://github.com/Happyazondekon/Memory) - Photo tracking app for monthly evolution  
+📊 [**Attendance Tracker**]- QR Code attendance system  
+
+---
+
