@@ -21,7 +21,7 @@
 
 ## 🤓 Fun Facts  
 - 📷 **Photography enthusiast**
-- 📝 **Author of *Elixir of Renewal***
+- 📝 **Author of *[L'ELIXIR DU RENOUVEAU](https://amzn.eu/d/eW2MpjJ)***
 - 🌏 **Traveled to Togo**
 - 🏆 **HSK2 certified in Chinese**
 - 🔍 Always curious to learn new technos 
