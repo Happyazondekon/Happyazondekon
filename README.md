@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/IKzFTDb.jpeg) <!-- Remplace avec ton URL de bannière -->
+![Banner](https://i.imgur.com/kYTpmnj.jpeg) <!-- Remplace avec ton URL de bannière -->
 # 👋 Hello, I'm Happy AZONDEKON  
 
 💻 **Software Developer | IT Analyst**  
