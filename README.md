@@ -20,7 +20,7 @@
 ---
 
 ## 🤓 Fun Facts  
-- 📷 **[Photography enthusiast]([https://github.com/Happyazondekon/happygallery.github.io](https://happyazondekon.github.io/happygallery.github.io/))**
+- 📷 **[Photography enthusiast](https://happyazondekon.github.io/happygallery.github.io/)**
 - 📝 **Author of *[L'ELIXIR DU RENOUVEAU](https://amzn.eu/d/eW2MpjJ)***
 - 🌏 **Traveled to Togo**
 - 🏆 **HSK2 certified in Chinese**
