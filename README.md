@@ -20,11 +20,11 @@
 ---
 
 ## 🤓 Fun Facts  
-- 📷 **Passionné de photographie**  
-- 📝 **Auteur de *Elixir du Renouveau***  
-- 🌏 **A voyagé au Togo**  
-- 🏆 **Certifié HSK2 en chinois**  
-- 🔍 Toujours curieux d'apprendre de nouvelles technos  
+- 📷 **Photography enthusiast**
+- 📝 **Author of *Elixir of Renewal***
+- 🌏 **Traveled to Togo**
+- 🏆 **HSK2 certified in Chinese**
+- 🔍 Always curious to learn new technos 
 
 ---
 
@@ -35,7 +35,7 @@
 ---
 
 ## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Happyazondekon&theme=onedark)  
 
 ---
 
