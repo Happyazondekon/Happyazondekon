@@ -10,6 +10,13 @@
 
 ---
 
+## 🌍 Languages I Speak  
+- 🇫🇷 **French** (Native)  
+- 🇬🇧 **English** (Fluent)  
+- 🇨🇳 **Chinese** (HSK2 Certified)  
+
+---
+
 ## 🚀 Tech Stack  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
@@ -24,7 +31,7 @@
 - 📝 **Author of *[L'ELIXIR DU RENOUVEAU](https://amzn.eu/d/eW2MpjJ)***
 - 🌏 **Traveled to Togo**
 - 🏆 **HSK2 certified in Chinese**
-- 🔍 Always curious to learn new technos 
+- 🔍 Always curious to learn new technos  
 
 ---
 
@@ -42,7 +49,6 @@
 ## 🌟 Featured Projects  
 🚀 [**SmartSpend**](https://github.com/Happyazondekon/SmartSpend) - Budget management app in Flutter  
 📸 [**Heyhappy**](https://github.com/Happyazondekon/heyhappy) - My Startup project  
-📊 [**Attendance Tracker**]- QR Code attendance system  
+📊 [**Attendance Tracker**](https://github.com/Happyazondekon/AttendanceTracker) - QR Code attendance system  
 
 ---
-
