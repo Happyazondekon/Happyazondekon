@@ -1,3 +1,4 @@
+![Banner](https://i.imgur.com/IKzFTDb.jpeg) <!-- Remplace avec ton URL de bannière -->
 # 👋 Hello, I'm Happy AZONDEKON  
 
 💻 **Software Developer | IT Analyst**  
@@ -6,7 +7,6 @@
 🎓 Studying **Analysis & Programming at ENEAM**  
 🌍 Based in **Benin**  
 
-![Banner](https://i.imgur.com/IKzFTDb.jpeg) <!-- Remplace avec ton URL de bannière -->
 
 ---
 
