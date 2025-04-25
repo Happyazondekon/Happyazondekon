@@ -4,7 +4,7 @@
 💻 **Software Developer | IT Analyst**  
 🚀 Passionate about **Laravel, React, and Flutter**  
 📚 Currently working on **SmartSpend, Memory, and Attendance Tracking App**  
-🎓 Studying **Analysis & Programming at ENEAM**  
+🎓 Studied **Analysis & Programming**  
 🌍 Based in **Benin**  
 
 
