@@ -53,6 +53,6 @@
 ## 🌟 Featured Projects  
 🚀 [**SmartSpend**](https://github.com/Happyazondekon/SmartSpend) - Budget management app in Flutter  
 📱 [**Heyhappy**](https://github.com/Happyazondekon/heyhappy) - My Startup project  
-📊 [**Attendance Tracker**](https://github.com/Happyazondekon/AttendanceTracker) - QR Code attendance system  
+📊 [**MathsCool**](https://github.com/Happyazondekon/MathsCool) - Math training app for kid  
 
 ---
