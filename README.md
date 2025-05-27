@@ -1,9 +1,9 @@
-![Banner](https://i.imgur.com/kYTpmnj.jpeg) <!-- Remplace avec ton URL de bannière -->
+![Banner](https://i.imgur.com/kYTpmnj.jpeg) 
 # 👋 Hello, I'm Happy AZONDEKON  
 
 💻 **Software Developer | IT Analyst**  
 🚀 Passionate about **Laravel, React, and Flutter**  
-📚 Currently working on **SmartSpend, HappyGoal, and Attendance Tracking App**  
+📚 Currently working on **SmartSpend, HappyGoal, MathsCool and Attendance Tracking App**  
 🎓 Studied **Analysis & Programming**  
 🌍 Based in **Benin**  
 
